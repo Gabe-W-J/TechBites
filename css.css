@@ -15,7 +15,7 @@ flex-direction : column;
 }
 
 ul {
-background-image : url(/img/BannerLogo.png);
+background-image : url(img/BannerLogo.png);
 background-size : contain;
 background-repeat : no-repeat;
 background-position : left;
@@ -64,7 +64,7 @@ margin-top : 2%;
 margin-left : 23%;
 width: 54.7%;
 height : 570px;
-background-image : url(/img/LandingPageLogo.png);
+background-image : url(img/LandingPageLogo.png);
 background-size : 1000px;
 background-repeat: no-repeat;
 }
@@ -90,7 +90,7 @@ background-repeat: no-repeat;
     margin-left : 23%;
     width: 1000px;
     height : 570px;
-    background-image : url(/img/LandingBG.jpg);
+    background-image : url(img/LandingBG.jpg);
     background-size : 1000px;
 }
 
@@ -116,7 +116,7 @@ background-repeat: no-repeat;
 float : right;
 width : 100%;
 margin : 0%;
-background-image: url(/img/contactbg.png);
+background-image: url(img/contactbg.png);
 background-size: cover;
 height : 110%;
 }
